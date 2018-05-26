@@ -1,0 +1,176 @@
+[
+  {
+    "number": "4000000760000002",
+    "token": "tok_br",
+    "country": "Brazil ",
+    "country_code": "BR"
+  },
+  {
+    "number": "4000001240000000",
+    "token": "tok_ca",
+    "country": "Canada ",
+    "country_code": "CA"
+  },
+  {
+    "number": "4012888888881881",
+    "token": "n/a",
+    "country": "Canada ",
+    "country_code": "CA"
+  },
+  {
+    "number": "4000004840000008",
+    "token": "tok_mx",
+    "country": "Mexico ",
+    "country_code": "MX"
+  },
+  {
+    "number": "4000000400000008",
+    "token": "tok_at",
+    "country": "Austria ",
+    "country_code": "AT"
+  },
+  {
+    "number": "4000000560000004",
+    "token": "tok_be",
+    "country": "Belgium ",
+    "country_code": "BE"
+  },
+  {
+    "number": "4000002080000001",
+    "token": "tok_dk",
+    "country": "Denmark ",
+    "country_code": "DK"
+  },
+  {
+    "number": "4000002460000001",
+    "token": "tok_fi",
+    "country": "Finland ",
+    "country_code": "FI"
+  },
+  {
+    "number": "4000002500000003",
+    "token": "tok_fr",
+    "country": "France ",
+    "country_code": "FR"
+  },
+  {
+    "number": "4000002760000016",
+    "token": "tok_de",
+    "country": "Germany ",
+    "country_code": "DE"
+  },
+  {
+    "number": "4000003720000005",
+    "token": "tok_ie",
+    "country": "Ireland ",
+    "country_code": "IE"
+  },
+  {
+    "number": "4000003800000008",
+    "token": "tok_it",
+    "country": "Italy ",
+    "country_code": "IT"
+  },
+  {
+    "number": "4000004420000006",
+    "token": "tok_lu",
+    "country": "Luxembourg ",
+    "country_code": "LU"
+  },
+  {
+    "number": "4000005280000002",
+    "token": "tok_nl",
+    "country": "Netherlands ",
+    "country_code": "NL"
+  },
+  {
+    "number": "4000005780000007",
+    "token": "tok_no",
+    "country": "Norway ",
+    "country_code": "NO"
+  },
+  {
+    "number": "4000006200000007",
+    "token": "tok_pt",
+    "country": "Portugal ",
+    "country_code": "PT"
+  },
+  {
+    "number": "4000006430000009",
+    "token": "tok_ru",
+    "country": "Russian Federation ",
+    "country_code": "RU"
+  },
+  {
+    "number": "4000007240000007",
+    "token": "tok_es",
+    "country": "Spain ",
+    "country_code": "ES"
+  },
+  {
+    "number": "4000007520000008",
+    "token": "tok_se",
+    "country": "Sweden ",
+    "country_code": "SE"
+  },
+  {
+    "number": "4000007560000009",
+    "token": "tok_ch",
+    "country": "Switzerland ",
+    "country_code": "CH"
+  },
+  {
+    "number": "4000008260000000",
+    "token": "tok_gb",
+    "country": "United Kingdom ",
+    "country_code": "GB"
+  },
+  {
+    "number": "4000058260000005",
+    "token": "tok_gb_debit",
+    "country": "United Kingdom ",
+    "country_code": "GB"
+  },
+  {
+    "number": "4000000360000006",
+    "token": "tok_au",
+    "country": "Australia ",
+    "country_code": "AU"
+  },
+  {
+    "number": "4000001560000002",
+    "token": "tok_cn",
+    "country": "China ",
+    "country_code": "CN"
+  },
+  {
+    "number": "4000003440000004",
+    "token": "tok_hk",
+    "country": "Hong Kong ",
+    "country_code": "HK"
+  },
+  {
+    "number": "4000003920000003",
+    "token": "tok_jp",
+    "country": "Japan ",
+    "country_code": "JP"
+  },
+  {
+    "number": "3530111333300000",
+    "token": "tok_jcb",
+    "country": "Japan ",
+    "country_code": "JP"
+  },
+  {
+    "number": "4000005540000008",
+    "token": "tok_nz",
+    "country": "New Zealand ",
+    "country_code": "NZ"
+  },
+  {
+    "number": "4000007020000003",
+    "token": "tok_sg",
+    "country": "Singapore ",
+    "country_code": "SG"
+  }
+]
