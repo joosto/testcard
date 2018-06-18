@@ -14,6 +14,12 @@
   version = "v1.0.0"
 
 [[projects]]
+  name = "github.com/jteeuwen/go-bindata"
+  packages = ["."]
+  revision = "bbd0c6e271208dce66d8fda4bc536453cd27fc4a"
+  version = "v3.0.7"
+
+[[projects]]
   branch = "master"
   name = "golang.org/x/net"
   packages = [
@@ -25,6 +31,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "7745119b46373b54f1306929e4568adc686e659ef6339cf4be6eef085fc7e8ad"
+  inputs-digest = "3db11e894c821136484e3ff38966bdcd4176d5f04ea5cd03c4f21a7b1c3066bd"
   solver-name = "gps-cdcl"
   solver-version = 1

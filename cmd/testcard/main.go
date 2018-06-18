@@ -8,7 +8,6 @@ import (
 	"os"
 	"errors"
 	"github.com/joosto/stripe-test/pkg/constants"
-	"io/ioutil"
 	"encoding/json"
 )
 
@@ -30,7 +29,7 @@ func main() {
 func retrieveCards(fileName string) ([]*model.Card, error) {
 	var cards []*model.Card
 
-	dat, err := ioutil.ReadFile(fileName)
+	dat, err := Asset(fileName)
 	if err != nil {
 		return nil, errors.New(fmt.Sprintf("could not open %s", fileName))
 	}

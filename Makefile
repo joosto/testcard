@@ -1,18 +1,21 @@
-all: clean test install
-
 build:
-	go build -o build/testcard cmd/testcard/main.go
+	./build/testcard-scraper
+	go-bindata -o cmd/testcard/bindata.go data/
+	go build -o build/testcard cmd/testcard/***
 
 build/scraper:
-	go build -o build/testcard-scraper cmd/scraper/main.go
+	go build -o build/testcard-scraper cmd/testcard-scraper/main.go
 
 clean:
 	rm build/*
 
 install:
-	go install -v ./...
+	go install cmd/testcard/***
 
-test:
-	go test -v ./...
+install/scraper:
+	go install cmd/testcard-scraper/***
 
-.PHONY: build install test clean
+dependencies: install/scraper
+	go get -u github.com/jteeuwen/go-bindata/...
+
+.PHONY: build install clean dependencies
